@@ -118,7 +118,10 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Harvard University
+        title: |
+          ![alt text][logo]
+        
+          [logo]: images/propic.jpg "Logo Title Text 2"
         caption: 2010 - 2013
         sub_title: BSc Computer Science
         quote: >

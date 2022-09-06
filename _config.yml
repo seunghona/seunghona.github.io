@@ -15,17 +15,17 @@ website: seunghona.github.io
 darkmode: false
 
 # Social links
-# twitter_username: facespics
+twitter_username: facespics
 github_username:  seunghona
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-# instagram_username: jameswgrant
+instagram_username: jameswgrant
 linkedin_username: jameswgrant
 # xing_username: jekyll
 # pinterest_username: jekyll
-# youtube_username: globalmtb
+youtube_username: globalmtb
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
@@ -48,8 +48,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-#  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark> 
-  I am a PhD candidate at KAIST [NSS Lab](https://nss.kaist.ac.kr/), advised by Professor [Seungwon Shin](https://nss.kaist.ac.kr/?page_id=29). I received my master's and bachelor's degree in electrical engineering from KAIST. My research interests lie in the application of machine learning in cybersafety and scrutinizing its effects on cybersecurity.
+  I am a PhD candidate at KAIST [NSS Lab](https://nss.kaist.ac.kr/), advised by Professor [Seungwon Shin](https://nss.kaist.ac.kr/?page_id=29). I received my master\\'s and bachelor\\'s degree in electrical engineering from KAIST. My research interests lie in the application of machine learning in cybersafety and scrutinizing its effects on cybersecurity.
   
 content:
   - title: Projects # Title for the section

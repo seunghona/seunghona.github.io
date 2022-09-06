@@ -51,6 +51,31 @@ about_content: | # this will include new lines to allow paragraphs
   I am a PhD candidate at KAIST [NSS Lab](https://nss.kaist.ac.kr/), advised by Professor [Seungwon Shin](https://nss.kaist.ac.kr/?page_id=29). I received my master\'s and bachelor\'s degree in electrical engineering from KAIST. My research interests lie in the application of machine learning in cybersafety and scrutinizing its effects on cybersecurity.
 
 content:
+
+  - title: Research # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-middle
+        title: Super awesome project
+        link: github.com/sproogen
+        # link_text: Project Website
+        additional_links:
+          - title:  sproogen/modern-resume-theme
+            icon: fab fa-github
+            url: github.com/sproogen/modern-resume-theme
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+        description: | # this will include new lines to allow paragraphs
+          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+          <details>
+          <summary>How do I dropdown?</summary>
+          <br>
+          This is how you dropdown.
+          </details>
+
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:

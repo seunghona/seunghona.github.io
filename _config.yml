@@ -1,5 +1,5 @@
 # Site
-repository: seunghona.github.io/
+repository: sproogen/resume-theme
 favicon: images/favicon.ico
 
 # Content configuration version
@@ -7,9 +7,9 @@ version: 2
 
 # Personal info
 name: Seung Ho Na
-title: PhD Candidate @ KAIST [NSS Lab](nss.kaist.ac.kr/)
+title: PhD Candidate @ KAIST [NSS Lab](nss.kaist.ac.kr)
 email: harry.na@kaist.ac.kr
-website: seunghona.github.io/
+website: seunghona.github.io
 
 # Dark Mode (true/false/never)
 darkmode: false

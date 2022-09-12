@@ -56,7 +56,8 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Super awesome project
+        title: Annual Computer Security Applications Conference
+        sub_title: ACSAC 2022
         # link: github.com/sproogen
         # link_text: Project Website
         # additional_links:
@@ -66,29 +67,19 @@ content:
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-          <details>
-          <summary>How do I dropdown?</summary>
-          <br>
-          This is how you dropdown.
-          </details>
+        # quote: >
+        #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+        #   <details>
+        #   <summary>How do I dropdown?</summary>
+        #   <br>
+        #   This is how you dropdown.
+        #   </details>
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
-          <details>
-          <summary>How do I dropdown?</summary>
-          <br>
-          This is how you dropdown.
-          </details>
-          <details>
-          <summary>How do I dropdown?</summary>
-          <br>
-          This is how you dropdown.
-          </details><details>
-          <summary>How do I dropdown?</summary>
-          <br>
-          This is how you dropdown.
-          </details>
+          <i class="fa-li fa fa-file-text-o" aria-hidden="true"></i> Closing the Loophole: Rethinking Reconstruction Attacks in Federated Learning from a Privacy Standpoint <br>
+          <span style="color:rgb(50, 113, 165)"><mark>Seung Ho Na</mark> , Hyeong Gwon Hong, Junmo Kim, Seungwon Shin<br></span>
+          <a class="button pub" onClick="window.open('https://nss.kaist.ac.kr/?page_id=6856');">PDF</a>
+
+
       - layout: left
         title: Super awesome project
         # link: github.com/sproogen

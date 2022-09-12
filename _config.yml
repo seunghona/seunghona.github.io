@@ -57,6 +57,7 @@ content:
     content:
       - layout: left
         title: ACSAC 2022
+        caption: Annual Computer Security Applications Conference
         sub_title: Annual Computer Security Applications Conference
         # link: github.com/sproogen
         # link_text: Project Website

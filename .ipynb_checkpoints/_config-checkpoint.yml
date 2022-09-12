@@ -55,7 +55,7 @@ content:
   - title: Research # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout:
+      - layout: left
         caption: Annual Computer Security Applications Conference
         sub_title: ACSAC 2022
         # dates: CMPB

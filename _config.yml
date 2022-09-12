@@ -94,7 +94,7 @@ content:
       job_title: 2022
       dates: CMPB
       # quote: >
-#       
+# 
       description: | # this will include new lines to allow paragraphs
         <i class="fa-li fa fa-file-text-o" aria-hidden="true"></i> Deep learning based domain adaptation for mitochondria segmentation on EM volumes
         <span style="color:rgb(50, 113, 165)"><mark>Daniel Franco-Barranco</mark>, Julio Pastor-Tronch, Aitor Gonzalez-Marfil, Arrate Muñoz-Barrutia, Ignacio Arganda-Carreras</span>

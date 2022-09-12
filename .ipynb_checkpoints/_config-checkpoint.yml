@@ -89,7 +89,6 @@ content:
       #     <br>
       #     This is how you dropdown.
       #     </details>
-
       - layout:
         caption: Annual Computer Security Applications Conference
         sub_title: ACSAC 2022

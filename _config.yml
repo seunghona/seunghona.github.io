@@ -97,7 +97,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           <i class="fa-li fa fa-file-text-o" aria-hidden="true"></i> [Poster] Knowledge Seeking on The Shadow Brokers
           <p style="color:rgb(50, 113, 165)"><mark>Seung Ho Na*</mark>, Kwanwoo Kim*, Seungwon Shin</p>
-          <p style="font-size:80%"><em>Equally Contributed</em></p>
+          <p style="font-size:90%"><em>*:Equally Contributed</em></p>
           <a class="button pub" onClick="window.open('https://nss.kaist.ac.kr/?page_id=6856');">PDF</a>
           <a class="button pub" onClick="window.open('https://nss.kaist.ac.kr/?page_id=6856');">Bib</a>
       # - layout: left

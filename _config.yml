@@ -110,7 +110,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Closing the Loophole: Rethinking Reconstruction Attacks in Federated Learning from a Privacy Standpoint 
+        title: Closing the Loophole':' Rethinking Reconstruction Attacks in Federated Learning from a Privacy Standpoint 
         # link: github.com/sproogen
         # link_text: Project Website
         additional_links:

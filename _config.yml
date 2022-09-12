@@ -74,8 +74,8 @@ content:
           <a class="button pub" onClick="window.open('https://nss.kaist.ac.kr/?page_id=6856');">Bib</a>
 
       - layout: left
-        caption: CIKM 2022
-        sub_title: ACM International Conference on Information and Knowledge Management
+        caption: ACM International Conference on Information and Knowledge Management
+        sub_title: CIKM 2022
         description: | # this will include new lines to allow paragraphs
           <i class="fa-li fa fa-file-text-o" aria-hidden="true"></i> Meta-Path-based Fake News Detection Leveraging Multi-level Social Context Information
           <p style="color:rgb(50, 113, 165)">Jian Cui, Kwanwoo Kim, <mark>Seung Ho Na</mark>, Seungwon Shin</p>
@@ -83,8 +83,8 @@ content:
           <a class="button pub" onClick="window.open('https://nss.kaist.ac.kr/?page_id=6856');">Bib</a>
 
       - layout: left
-        caption: ACSAC 2021
-        sub_title: Annual Computer Security Applications Conference
+        caption: Annual Computer Security Applications Conference
+        sub_title: ACSAC 2021
         description: | # this will include new lines to allow paragraphs
           <i class="fa-li fa fa-file-text-o" aria-hidden="true"></i> Reinhardt: Real-time Reconfigurable Hardware Architecture for Regular Expression Matching in DPI
           <p style="color:rgb(50, 113, 165)">Taejune park, Jaehyun Nam, <mark>Seung Ho Na</mark>, Jaewoong Chung and Seungwon Shin </p>

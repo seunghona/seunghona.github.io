@@ -58,7 +58,7 @@ content:
       - layout: left
         caption: Annual Computer Security Applications Conference
         sub_title: ACSAC 2022
-        # dates: CMPB
+        dates: CMPB
         # quote: >
 # 
         description: | # this will include new lines to allow paragraphs

@@ -56,25 +56,8 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        # title: ACSAC 2022
-        caption: ACSAC 2022
-        sub_title: Annual Computer Security Applications Conference
-        # link: github.com/sproogen
-        # link_text: Project Website
-        # additional_links:
-          # - title:  sproogen/modern-resume-theme
-            # icon: fab fa-github
-            # url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        # quote: >
-        #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-        #   <details>
-        #   <summary>How do I dropdown?</summary>
-        #   <br>
-        #   This is how you dropdown.
-        #   </details>
+        caption: Annual Computer Security Applications Conference
+        sub_title: ACSAC 2022
         description: | # this will include new lines to allow paragraphs
           <i class="fa-li fa fa-file-text-o" aria-hidden="true"></i> Closing the Loophole: Rethinking Reconstruction Attacks in Federated Learning from a Privacy Standpoint
           <p style="color:rgb(50, 113, 165)"><mark>Seung Ho Na</mark> , Hyeong Gwon Hong, Junmo Kim, Seungwon Shin</p>
@@ -82,8 +65,8 @@ content:
           <a class="button pub" onClick="window.open('https://nss.kaist.ac.kr/?page_id=6856');">Bib</a>
           
       - layout: left
-        caption: JNCA 2022
-        sub_title: Journal of Network and Computer Applications
+        caption: Journal of Network and Computer Applications
+        sub_title: JNCA 2022
         description: | # this will include new lines to allow paragraphs
           <i class="fa-li fa fa-file-text-o" aria-hidden="true"></i> Reconfigurable Regular Expression Matching Architecture for Real-time Pattern Update and Payload Inspection
           <p style="color:rgb(50, 113, 165)">Jaehyun Nam, <mark>Seung Ho Na</mark>, Seungwon Shin, Taejune Park</p>

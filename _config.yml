@@ -91,7 +91,8 @@ content:
           </details>
 
       - layout:
-        job_title: 2022
+        caption: 2022
+        sub_title: 2022 CMPB
         dates: CMPB
         # quote: >
 # 
@@ -109,7 +110,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Closing the Loophole':' Rethinking Reconstruction Attacks in Federated Learning from a Privacy Standpoint 
+        title: Closing the Loophole: Rethinking Reconstruction Attacks in Federated Learning from a Privacy Standpoint 
         # link: github.com/sproogen
         # link_text: Project Website
         additional_links:
@@ -120,9 +121,9 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          Closing the Loophole':' Rethinking Reconstruction Attacks in Federated Learning from a Privacy Standpoint 
+          Closing the Loophole: Rethinking Reconstruction Attacks in Federated Learning from a Privacy Standpoint 
         description: | # this will include new lines to allow paragraphs
-          Closing the Loophole':' Rethinking Reconstruction Attacks in Federated Learning from a Privacy Standpoint 
+          Closing the Loophole: Rethinking Reconstruction Attacks in Federated Learning from a Privacy Standpoint 
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)

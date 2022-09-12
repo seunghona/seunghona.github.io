@@ -56,8 +56,8 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: ACSAC 2022
-        caption: Annual Computer Security Applications Conference
+        # title: ACSAC 2022
+        caption: ACSAC 2022
         sub_title: Annual Computer Security Applications Conference
         # link: github.com/sproogen
         # link_text: Project Website

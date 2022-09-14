@@ -63,8 +63,7 @@ content:
           <p style="color:rgb(50, 113, 165)"><mark>Seung Ho Na</mark> , Hyeong Gwon Hong, Junmo Kim, Seungwon Shin</p>
           <a class="button pub" onClick="window.open('https://nss.kaist.ac.kr/?page_id=6856');">PDF</a>
           <a class="button pub" onClick="myFunction()">Bib</a>
-          <div id="myDIV">
-          This is my DIV element.
+          <i id="myDIV">
           @inproceedings{na2018knowledge,
             title={Knowledge Seeking on The Shadow Brokers},
             author={Na, Seung Ho and Kim, Kwanwoo and Shin, Seungwon},
@@ -72,7 +71,7 @@ content:
             pages={2249--2251},
             year={2018}
           }
-          </div>
+          </i>
           <script>
           function myFunction() {
             var x = document.getElementById("myDIV");

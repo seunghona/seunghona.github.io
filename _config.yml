@@ -107,8 +107,27 @@ content:
         description: | # this will include new lines to allow paragraphs
           <i class="fa-li fa fa-file-text-o" aria-hidden="true"></i> Reinhardt: Real-time Reconfigurable Hardware Architecture for Regular Expression Matching in DPI
           <p style="color:rgb(50, 113, 165)">Taejune park, Jaehyun Nam, <mark>Seung Ho Na</mark>, Jaewoong Chung, Seungwon Shin</p>
-          <a class="button pub" onClick="window.open('https://nss.kaist.ac.kr/?page_id=6856');">PDF</a>
-          <a class="button pub" onClick="window.open('https://nss.kaist.ac.kr/?page_id=6856');">Bib</a>
+          <a class="button pub" href="pdfs/Reinhardt.pdf" target="_blank">PDF</a>
+          <a class="button pub" onClick="myFunction()">Bib</a>
+          <i style="display:none" id="myDIV2">
+          @inproceedings{park2021reinhardt,<br>&nbsp;&nbsp;
+            title={Reinhardt: Real-time Reconfigurable Hardware Architecture for Regular Expression Matching in DPI},<br>&nbsp;&nbsp;
+            author={Park, Taejune and Nam, Jaehyun and Na, Seung Ho and Chung, Jaewoong and Shin, Seungwon},<br>&nbsp;&nbsp;
+            booktitle={Annual Computer Security Applications Conference},<br>&nbsp;&nbsp;
+            pages={620--633},<br>&nbsp;&nbsp;
+            year={2021}<br>
+          }
+          </i>
+          <script>
+          function myFunction() {
+            var x = document.getElementById("myDIV2");
+            if (x.style.display === "none") {
+              x.style.display = "block";
+            } else {
+              x.style.display = "none";
+            }
+          }
+          </script>
 
       - layout: left
         caption: ACM Computer and Communications Security Conference

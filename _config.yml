@@ -117,8 +117,27 @@ content:
           <i class="fa-li fa fa-file-text-o" aria-hidden="true"></i> [Poster] Knowledge Seeking on The Shadow Brokers
           <p style="color:rgb(50, 113, 165)"><mark>Seung Ho Na</mark>*, Kwanwoo Kim*, Seungwon Shin</p>
           <p style="font-size:90%"><em>*:Equally Contributed</em></p>
-          <a class="button pub" onClick="window.open('https://nss.kaist.ac.kr/?page_id=6856');">PDF</a>
-          <a class="button pub" onClick="window.open('https://nss.kaist.ac.kr/?page_id=6856');">Bib</a>
+          <a class="button pub" href="pdfs/ccs2018poster-na.pdf">PDF</a>
+          <a class="button pub" onClick="myFunction()">Bib</a>
+          <i style="display:none" id="myDIV">
+          @inproceedings{na2018knowledge,<br>&nbsp;&nbsp;
+            title={Knowledge Seeking on The Shadow Brokers},<br>&nbsp;&nbsp;
+            author={Na, Seung Ho and Kim, Kwanwoo and Shin, Seungwon},<br>&nbsp;&nbsp;
+            booktitle={Proceedings of the 2018 ACM SIGSAC Conference on Computer and Communications Security},<br>&nbsp;&nbsp;
+            pages={2249--2251},<br>&nbsp;&nbsp;
+            year={2018}<br>
+          }
+          </i>
+          <script>
+          function myFunction() {
+            var x = document.getElementById("myDIV");
+            if (x.style.display === "none") {
+              x.style.display = "block";
+            } else {
+              x.style.display = "none";
+            }
+          }
+          </script>
       # - layout: left
       #   title: Super awesome project
       #   # link: github.com/sproogen

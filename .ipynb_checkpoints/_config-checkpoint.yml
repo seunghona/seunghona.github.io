@@ -48,7 +48,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/propic.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I am a PhD candidate at KAIST [NSS Lab](https://nss.kaist.ac.kr/), advised by Professor [Seungwon Shin](https://nss.kaist.ac.kr/?page_id=29). I received my master\'s and bachelor\'s degree in electrical engineering from KAIST. Having grown up in both South Korea and the US, I had the opportunity to experience both cultures as a student, resulting in bilingual proficiency and a playlist curation that ranges from Bruno Mars to Big Bang. My research interests lie in the application of machine learning in cybersafety and scrutinizing its effects on cybersecurity.
+  I am a PhD candidate at KAIST [NSS Lab](https://nss.kaist.ac.kr/), advised by Professor [Seungwon Shin](https://nss.kaist.ac.kr/?page_id=29). I received my master\'s and bachelor\'s degree in electrical engineering from KAIST. Having grown up in both South Korea and the US, I had the opportunity to experience both cultures as a student, resulting in bilingual proficiency and a playlist curation that ranges from Bruno Mars to BTS. My research interests lie in the application of machine learning in cybersafety and scrutinizing its effects on cybersecurity.
 
 content:
 
@@ -63,8 +63,21 @@ content:
           <p style="color:rgb(50, 113, 165)"><mark>Seung Ho Na</mark> , Hyeong Gwon Hong, Junmo Kim, Seungwon Shin</p>
           <a class="button pub" onClick="window.open('https://nss.kaist.ac.kr/?page_id=6856');">PDF</a>
           <a class="button pub" onClick="window.open('https://nss.kaist.ac.kr/?page_id=6856');">Bib</a>
-          <div id='content'>Hello World</div>
-          <input type='button' id='hideshow' value='hide/show'>
+          
+          <button onclick="myFunction()">Try it</button>
+          <div id="myDIV">
+          This is my DIV element.
+          </div>
+          <script>
+          function myFunction() {
+            var x = document.getElementById("myDIV");
+            if (x.style.display === "none") {
+              x.style.display = "block";
+            } else {
+              x.style.display = "none";
+            }
+          }
+          </script>
           
       - layout: left
         caption: Journal of Network and Computer Applications

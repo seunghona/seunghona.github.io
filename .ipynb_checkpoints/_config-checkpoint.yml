@@ -64,12 +64,12 @@ content:
           <a class="button pub" onClick="window.open('https://nss.kaist.ac.kr/?page_id=6856');">PDF</a>
           <a class="button pub" onClick="myFunction()">Bib</a>
           <i id="myDIV">
-          @inproceedings{na2018knowledge,
-            title={Knowledge Seeking on The Shadow Brokers},
-            author={Na, Seung Ho and Kim, Kwanwoo and Shin, Seungwon},
-            booktitle={Proceedings of the 2018 ACM SIGSAC Conference on Computer and Communications Security},
-            pages={2249--2251},
-            year={2018}
+          @inproceedings{na2018knowledge,<br>
+            title={Knowledge Seeking on The Shadow Brokers},<br>
+            author={Na, Seung Ho and Kim, Kwanwoo and Shin, Seungwon},<br>
+            booktitle={Proceedings of the 2018 ACM SIGSAC Conference on Computer and Communications Security},<br>
+            pages={2249--2251},<br>
+            year={2018}<br>
           }
           </i>
           <script>

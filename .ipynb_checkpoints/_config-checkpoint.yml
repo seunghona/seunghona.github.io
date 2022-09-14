@@ -62,11 +62,16 @@ content:
           <i class="fa-li fa fa-file-text-o" aria-hidden="true"></i> Closing the Loophole: Rethinking Reconstruction Attacks in Federated Learning from a Privacy Standpoint
           <p style="color:rgb(50, 113, 165)"><mark>Seung Ho Na</mark> , Hyeong Gwon Hong, Junmo Kim, Seungwon Shin</p>
           <a class="button pub" onClick="window.open('https://nss.kaist.ac.kr/?page_id=6856');">PDF</a>
-          <a class="button pub" onClick="window.open('https://nss.kaist.ac.kr/?page_id=6856');">Bib</a>
-          
-          <button onclick="myFunction()">Try it</button>
+          <a class="button pub" onClick="myFunction()">Bib</a>
           <div id="myDIV">
           This is my DIV element.
+          @inproceedings{na2018knowledge,
+            title={Knowledge Seeking on The Shadow Brokers},
+            author={Na, Seung Ho and Kim, Kwanwoo and Shin, Seungwon},
+            booktitle={Proceedings of the 2018 ACM SIGSAC Conference on Computer and Communications Security},
+            pages={2249--2251},
+            year={2018}
+          }
           </div>
           <script>
           function myFunction() {

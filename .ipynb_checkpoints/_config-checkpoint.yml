@@ -209,8 +209,6 @@ content:
         description: | # this will include new lines to allow paragraphs
             Worked as an intern in the research team. Was assigned a project on using deep learning for anomaly detection of faulty factory components, where I developed a hierarchical classification system that helped decrease false negative samples.
             
-    layout: list # Type of content section (list/text)
-    content:
       - layout: left
         title: IMM Investment
         link: http://imm.co.kr/company
@@ -232,7 +230,7 @@ content:
         # quote: >
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+          Under Professor Seungwon Shin, I was able to utilize my AI knowledge and apply it to CTI (cyber threat information) research. My Master's thesis is research on a knowledge-powered cross-domain investigation of cyber-extortion operators. This work presents an analysis of Clop, a ransomware campaign, using a devised investigation framework that utilizes information from multiple domains.
 
       - layout: left
         title: KAIST
@@ -241,20 +239,16 @@ content:
         # quote: >
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
-
+          During my time at KAIST I dedicated much of my time in exploring what I wanted to do in life. After a broad selection of courses from various fields, several undergraduate research programs, and extracurricular activities, I found that learning and discovering new knowledge was what I enjoyed and decided to continue this in graduate school.
 
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
+      Alongside my interests in AI and cybersafety, some of my other interests and hobbies are:
+      - Watching and playing football (soccer)
       - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+      - Exercising
 
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: true

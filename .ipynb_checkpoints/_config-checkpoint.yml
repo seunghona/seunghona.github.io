@@ -146,7 +146,7 @@ content:
           <i class="fa-li fa fa-file-text-o" aria-hidden="true"></i> Reinhardt: Real-time Reconfigurable Hardware Architecture for Regular Expression Matching in DPI
           <p style="color:rgb(50, 113, 165)">Taejune park, Jaehyun Nam, <mark>Seung Ho Na</mark>, Jaewoong Chung, Seungwon Shin</p>
           <a class="button pub" href="pdfs/Reinhardt.pdf" target="_blank">PDF</a>
-          <a class="button pub" onClick="myFunction2()">Bib</a>
+          <a class="button pub" onClick="myFunction("myDIV2")">Bib</a>
           <i style="display:none" id="myDIV2">
           @inproceedings{park2021reinhardt,<br>&nbsp;&nbsp;
             title={Reinhardt: Real-time Reconfigurable Hardware Architecture for Regular Expression Matching in DPI},<br>&nbsp;&nbsp;
@@ -157,8 +157,8 @@ content:
           }
           </i>
           <script>
-          function myFunction2() {
-            var x = document.getElementById("myDIV2");
+          function myFunction(id) {
+            var x = document.getElementById(id);
             if (x.style.display === "none") {
               x.style.display = "block";
             } else {
@@ -175,7 +175,7 @@ content:
           <p style="color:rgb(50, 113, 165)"><mark>Seung Ho Na</mark>*, Kwanwoo Kim*, Seungwon Shin</p>
           <p style="font-size:90%"><em>*:Equally Contributed</em></p>
           <a class="button pub" href="pdfs/ccs2018poster-na.pdf" target="_blank">PDF</a>
-          <a class="button pub" onClick="myFunction1()">Bib</a>
+          <a class="button pub" onClick="myFunction("myDIV1")">Bib</a>
           <i style="display:none" id="myDIV1">
           @inproceedings{na2018knowledge,<br>&nbsp;&nbsp;
             title={Knowledge Seeking on The Shadow Brokers},<br>&nbsp;&nbsp;
@@ -186,8 +186,8 @@ content:
           }
           </i>
           <script>
-          function myFunction1() {
-            var x = document.getElementById("myDIV1");
+          function myFunction1(id) {
+            var x = document.getElementById(id);
             if (x.style.display === "none") {
               x.style.display = "block";
             } else {

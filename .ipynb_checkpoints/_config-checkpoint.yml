@@ -48,7 +48,8 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/propic.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I am a PhD candidate at KAIST [NSS Lab](https://nss.kaist.ac.kr/), advised by Professor [Seungwon Shin](https://nss.kaist.ac.kr/?page_id=29). I received my master\'s and bachelor\'s degree in electrical engineering from KAIST. Having grown up in both South Korea and the US, I had the opportunity to experience both cultures as a student, resulting in bilingual proficiency and a playlist curation that ranges from Bruno Mars to BTS. My research interests lie in the application of machine learning in cybersafety and scrutinizing its effects on cybersecurity.
+  I am a PhD candidate at KAIST [NSS Lab](https://nss.kaist.ac.kr/){:target="_blank"}, advised by Professor [Seungwon Shin](https://nss.kaist.ac.kr/?page_id=29){:target="_blank"}. I received my master\'s and bachelor\'s degree in electrical engineering from KAIST. My research interests lie in the application of machine learning in cybersafety and scrutinizing its effects on cybersecurity. Privacy of individual clients in AI has been one of my focuses in research, and I am expanding my reach to understand the more imminent threats on the individual posed by the Web (e.g., malicious bots). If you are interested in working together, feel free to drop an [email](harry.na@kaist.ac.kr){:target="_blank"} at any time!
+  Having grown up in both South Korea and the US, I had the opportunity to experience both cultures as a student, resulting in bilingual proficiency and a playlist curation that ranges from Bruno Mars to BTS.
 
 content:
 

@@ -91,7 +91,7 @@ content:
           <p style="color:rgb(50, 113, 165)">Jaehyun Nam, <mark>Seung Ho Na</mark>, Seungwon Shin, Taejune Park</p>
           <a class="button pub" onClick="window.open('https://nss.kaist.ac.kr/?page_id=6856');">PDF</a>
           <a class="button pub" onClick="myFunction()">Bib</a>
-          <i style="display:none" id="myDIV2">
+          <i style="display:none" id="myDIV4">
           @inproceedings{park2021reinhardt,<br>&nbsp;&nbsp;
             title={Reinhardt: Real-time Reconfigurable Hardware Architecture for Regular Expression Matching in DPI},<br>&nbsp;&nbsp;
             author={Park, Taejune and Nam, Jaehyun and Na, Seung Ho and Chung, Jaewoong and Shin, Seungwon},<br>&nbsp;&nbsp;
@@ -102,7 +102,7 @@ content:
           </i>
           <script>
           function myFunction() {
-            var x = document.getElementById("myDIV2");
+            var x = document.getElementById("myDIV4");
             if (x.style.display === "none") {
               x.style.display = "block";
             } else {
@@ -119,7 +119,7 @@ content:
           <p style="color:rgb(50, 113, 165)">Jian Cui, Kwanwoo Kim, <mark>Seung Ho Na</mark>, Seungwon Shin</p>
           <a class="button pub" onClick="window.open('https://nss.kaist.ac.kr/?page_id=6856');">PDF</a>
           <a class="button pub" onClick="myFunction()">Bib</a>
-          <i style="display:none" id="myDIV2">
+          <i style="display:none" id="myDIV3">
           @inproceedings{park2021reinhardt,<br>&nbsp;&nbsp;
             title={Reinhardt: Real-time Reconfigurable Hardware Architecture for Regular Expression Matching in DPI},<br>&nbsp;&nbsp;
             author={Park, Taejune and Nam, Jaehyun and Na, Seung Ho and Chung, Jaewoong and Shin, Seungwon},<br>&nbsp;&nbsp;
@@ -130,7 +130,7 @@ content:
           </i>
           <script>
           function myFunction() {
-            var x = document.getElementById("myDIV2");
+            var x = document.getElementById("myDIV3");
             if (x.style.display === "none") {
               x.style.display = "block";
             } else {

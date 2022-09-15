@@ -62,26 +62,10 @@ content:
           <i class="fa-li fa fa-file-text-o" aria-hidden="true"></i> Closing the Loophole: Rethinking Reconstruction Attacks in Federated Learning from a Privacy Standpoint
           <p style="color:rgb(50, 113, 165)"><mark>Seung Ho Na</mark> , Hyeong Gwon Hong, Junmo Kim, Seungwon Shin</p>
           <a class="button pub" onClick="window.open('https://nss.kaist.ac.kr/?page_id=6856');">PDF</a>
-          <a class="button pub" onClick="myFunction()">Bib</a>
-          <i style="display:none" id="myDIV">
-          @inproceedings{na2018knowledge,<br>&nbsp;&nbsp;
-            title={Knowledge Seeking on The Shadow Brokers},<br>&nbsp;&nbsp;
-            author={Na, Seung Ho and Kim, Kwanwoo and Shin, Seungwon},<br>&nbsp;&nbsp;
-            booktitle={Proceedings of the 2018 ACM SIGSAC Conference on Computer and Communications Security},<br>&nbsp;&nbsp;
-            pages={2249--2251},<br>&nbsp;&nbsp;
-            year={2018}<br>
-          }
+          <a class="button pub" onClick="myFunction('myDIV5')">Bib</a>
+          <i style="display:none" id="myDIV5">
+          To be announced.
           </i>
-          <script>
-          function myFunction() {
-            var x = document.getElementById("myDIV");
-            if (x.style.display === "none") {
-              x.style.display = "block";
-            } else {
-              x.style.display = "none";
-            }
-          }
-          </script>
           
       - layout: left
         caption: Journal of Network and Computer Applications
@@ -90,26 +74,10 @@ content:
           <i class="fa-li fa fa-file-text-o" aria-hidden="true"></i> Reconfigurable Regular Expression Matching Architecture for Real-time Pattern Update and Payload Inspection
           <p style="color:rgb(50, 113, 165)">Jaehyun Nam, <mark>Seung Ho Na</mark>, Seungwon Shin, Taejune Park</p>
           <a class="button pub" onClick="window.open('https://nss.kaist.ac.kr/?page_id=6856');">PDF</a>
-          <a class="button pub" onClick="myFunction()">Bib</a>
+          <a class="button pub" onClick="myFunction('myDIV4')">Bib</a>
           <i style="display:none" id="myDIV4">
-          @inproceedings{park2021reinhardt,<br>&nbsp;&nbsp;
-            title={Reinhardt: Real-time Reconfigurable Hardware Architecture for Regular Expression Matching in DPI},<br>&nbsp;&nbsp;
-            author={Park, Taejune and Nam, Jaehyun and Na, Seung Ho and Chung, Jaewoong and Shin, Seungwon},<br>&nbsp;&nbsp;
-            booktitle={Annual Computer Security Applications Conference},<br>&nbsp;&nbsp;
-            pages={620--633},<br>&nbsp;&nbsp;
-            year={2021}<br>
-          }
+          To be announced.
           </i>
-          <script>
-          function myFunction() {
-            var x = document.getElementById("myDIV4");
-            if (x.style.display === "none") {
-              x.style.display = "block";
-            } else {
-              x.style.display = "none";
-            }
-          }
-          </script>
 
       - layout: left
         caption: ACM International Conference on Information and Knowledge Management
@@ -118,26 +86,10 @@ content:
           <i class="fa-li fa fa-file-text-o" aria-hidden="true"></i> Meta-Path-based Fake News Detection Leveraging Multi-level Social Context Information
           <p style="color:rgb(50, 113, 165)">Jian Cui, Kwanwoo Kim, <mark>Seung Ho Na</mark>, Seungwon Shin</p>
           <a class="button pub" onClick="window.open('https://nss.kaist.ac.kr/?page_id=6856');">PDF</a>
-          <a class="button pub" onClick="myFunction()">Bib</a>
+          <a class="button pub" onClick="myFunction('myDIV3')">Bib</a>
           <i style="display:none" id="myDIV3">
-          @inproceedings{park2021reinhardt,<br>&nbsp;&nbsp;
-            title={Reinhardt: Real-time Reconfigurable Hardware Architecture for Regular Expression Matching in DPI},<br>&nbsp;&nbsp;
-            author={Park, Taejune and Nam, Jaehyun and Na, Seung Ho and Chung, Jaewoong and Shin, Seungwon},<br>&nbsp;&nbsp;
-            booktitle={Annual Computer Security Applications Conference},<br>&nbsp;&nbsp;
-            pages={620--633},<br>&nbsp;&nbsp;
-            year={2021}<br>
-          }
+          To be announced.
           </i>
-          <script>
-          function myFunction() {
-            var x = document.getElementById("myDIV3");
-            if (x.style.display === "none") {
-              x.style.display = "block";
-            } else {
-              x.style.display = "none";
-            }
-          }
-          </script>
 
       - layout: left
         caption: Annual Computer Security Applications Conference

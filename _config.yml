@@ -50,7 +50,9 @@ about_profile_image: images/propic.jpg
 about_content: | # this will include new lines to allow paragraphs
   I am a PhD candidate at KAIST [NSS Lab](https://nss.kaist.ac.kr/){:target="_blank"}, advised by Professor [Seungwon Shin](https://nss.kaist.ac.kr/?page_id=29){:target="_blank"}. I received my master\'s and bachelor\'s degree in electrical engineering from KAIST. My research interests lie in the application of machine learning in cybersafety and scrutinizing its effects on cybersecurity. Privacy of individual clients in AI has been one of my focuses in research, and I am expanding my reach to understand the more imminent threats on the individual posed by the Web (e.g., malicious bots).
   
-  Having grown up in both South Korea and the US, I had the opportunity to experience both cultures as a student, resulting in bilingual proficiency and a playlist curation that ranges from Bruno Mars to BTS. In terms of programming languages I\'m more versatile; my main programming languages (used in research) are Python, C, and Matlab and have adequate experience (e.g., projects, coursework) with Java, Scala, SQL, and Javascript. If you are interested in working together, feel free to drop an email at any time!
+  Having grown up in both South Korea and the US, I had the opportunity to experience both cultures as a student, resulting in bilingual proficiency and a playlist curation that ranges from Bruno Mars to BTS. In terms of programming languages I\'m more versatile; my main programming languages (used in research) are Python, C, and Matlab and have adequate experience (e.g., projects, coursework) with Java, Scala, SQL, and Javascript.
+  
+  If you are interested in working together, feel free to drop an email at any time!
 
 content:
 
@@ -245,8 +247,8 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in AI and cybersafety, some of my other interests and hobbies are:
-      - Watching and playing football (soccer)
-      - Gaming
+      - Watching and playing football; fan of Manchester City F.C.
+      - Occasional gaming (TFT, FIFA, and Pokemon Go)
       - Exercising
 
 

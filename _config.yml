@@ -243,7 +243,21 @@ content:
         description: | # this will include new lines to allow paragraphs
           During my time at KAIST I dedicated much of my time in exploring what I wanted to do in life. After a broad selection of courses from various fields, several undergraduate research programs, and extracurricular activities, I found that learning and discovering new knowledge was what I enjoyed and decided to continue this in graduate school.
 
-  - title: A Little More About Me
+  - title: Awards # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-middle
+        title: ATTOResearch
+        link: www.atto-research.com
+        # link_text: boringcompany.com
+        sub_title: Intern
+        caption: February 2017 - August 2017
+        # quote: >
+        #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        description: | # this will include new lines to allow paragraphs
+            Worked as an intern in the research team. Was assigned a project on using deep learning for anomaly detection of faulty factory components, where I developed a hierarchical classification system that helped decrease false negative samples.
+
+- title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in AI and cybersafety, some of my other interests and hobbies are:

@@ -289,6 +289,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-right
+        border: weak
         title: ATTOResearch
         link: www.atto-research.com
         # link_text: boringcompany.com

@@ -290,12 +290,21 @@ content:
     content:
       - layout: top-middle
         border: weak
-        title: ATTOResearch
-        link: www.atto-research.com
+        title: 5th Financial Security Institute Paper Competition /: Second Prize
+        # link: www.atto-research.com
         quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
-        description: | # this will include new lines to allow paragraphs
-            Worked as an intern in the research team. Was assigned a project on using deep learning for anomaly detection of faulty factory components, where I developed a hierarchical classification system that helped decrease false negative samples.
+          제 5회 금융보안원 논문 공모전 최우수상
+        # description: | # this will include new lines to allow paragraphs
+        #     Worked as an intern in the research team. Was assigned a project on using deep learning for anomaly detection of faulty factory components, where I developed a hierarchical classification system that helped decrease false negative samples.
+
+      - layout: top-middle
+        border: weak
+        title: 4th Financial Security Institute Paper Competition /: First Prize
+        # link: www.atto-research.com
+        quote: >
+          제 4회 금융보안원 논문 공모전 대상
+        # description: | # this will include new lines to allow paragraphs
+        #     Worked as an intern in the research team. Was assigned a project on using deep learning for anomaly detection of faulty factory components, where I developed a hierarchical classification system that helped decrease false negative samples.
 
   - title: A Little More About Me
     layout: text

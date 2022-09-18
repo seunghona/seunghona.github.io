@@ -290,7 +290,7 @@ content:
     content:
       - layout: top-middle
         border: weak
-        title: 5th Financial Security Institute Paper Competition /: Second Prize
+        title: 5th Financial Security Institute Paper Competition, Second Prize
         # link: www.atto-research.com
         quote: >
           제 5회 금융보안원 논문 공모전 최우수상
@@ -299,7 +299,7 @@ content:
 
       - layout: top-middle
         border: weak
-        title: 4th Financial Security Institute Paper Competition /: First Prize
+        title: 4th Financial Security Institute Paper Competition, First Prize
         # link: www.atto-research.com
         quote: >
           제 4회 금융보안원 논문 공모전 대상

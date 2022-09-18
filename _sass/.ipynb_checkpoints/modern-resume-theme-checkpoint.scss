@@ -130,7 +130,7 @@
   }
 }
 
-.layout-top-right {
+.layout-top-right{
   @media screen and (max-width: 768px) {
     display: flex;
     flex-direction: column;
@@ -139,8 +139,10 @@
 
 .layout-top-middle {
   flex-direction: column;
-  .details {
+  
+  .details, .content {
     text-align: center;
+    width: 100%
   }
 }
 

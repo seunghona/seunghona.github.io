@@ -65,7 +65,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           <i class="fa-li fa fa-file-text-o" aria-hidden="true"></i> Closing the Loophole: Rethinking Reconstruction Attacks in Federated Learning from a Privacy Standpoint
           <p style="color:rgb(50, 113, 165)"><mark>Seung Ho Na</mark> , Hyeong Gwon Hong, Junmo Kim, Seungwon Shin</p>
-          <a class="button pub" onClick="window.open('https://nss.kaist.ac.kr/?page_id=6856');">PDF</a>
+          <a class="button pub" href="pdfs/ACSAC_FFL.pdf" target="_blank">PDF</a>
           <a class="button pub" onClick="myFunction('myDIV5')">Bib</a>
           <i style="display:none" id="myDIV5">
           To be announced.
@@ -77,10 +77,18 @@ content:
         description: | # this will include new lines to allow paragraphs
           <i class="fa-li fa fa-file-text-o" aria-hidden="true"></i> Reconfigurable Regular Expression Matching Architecture for Real-time Pattern Update and Payload Inspection
           <p style="color:rgb(50, 113, 165)">Jaehyun Nam, <mark>Seung Ho Na</mark>, Seungwon Shin, Taejune Park</p>
-          <a class="button pub" onClick="window.open('https://nss.kaist.ac.kr/?page_id=6856');">PDF</a>
+          <a class="button pub" href="pdfs/jnca.pdf" target="_blank">PDF</a>
           <a class="button pub" onClick="myFunction('myDIV4')">Bib</a>
           <i style="display:none" id="myDIV4">
-          To be announced.
+          @article{nam2022reconfigurable,
+            title={Reconfigurable regular expression matching architecture for real-time pattern update and payload inspection},
+            author={Nam, Jaehyun and Na, Seung Ho and Shin, Seungwon and Park, Taejune},
+            journal={Journal of Network and Computer Applications},
+            volume={208},
+            pages={103507},
+            year={2022},
+            publisher={Elsevier}
+          }
           </i>
 
       - layout: left
@@ -89,10 +97,16 @@ content:
         description: | # this will include new lines to allow paragraphs
           <i class="fa-li fa fa-file-text-o" aria-hidden="true"></i> Meta-Path-based Fake News Detection Leveraging Multi-level Social Context Information
           <p style="color:rgb(50, 113, 165)">Jian Cui, Kwanwoo Kim, <mark>Seung Ho Na</mark>, Seungwon Shin</p>
-          <a class="button pub" onClick="window.open('https://nss.kaist.ac.kr/?page_id=6856');">PDF</a>
+          <a class="button pub" href="pdfs/cikm.pdf" target="_blank">PDF</a>
           <a class="button pub" onClick="myFunction('myDIV3')">Bib</a>
           <i style="display:none" id="myDIV3">
-          To be announced.
+          @inproceedings{cui2022meta,
+            title={Meta-Path-based Fake News Detection Leveraging Multi-level Social Context Information},
+            author={Cui, Jian and Kim, Kwanwoo and Na, Seung Ho and Shin, Seungwon},
+            booktitle={Proceedings of the 31st ACM International Conference on Information \& Knowledge Management},
+            pages={325--334},
+            year={2022}
+          }
           </i>
 
       - layout: left

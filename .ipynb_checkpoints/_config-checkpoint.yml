@@ -80,14 +80,14 @@ content:
           <a class="button pub" href="pdfs/jnca.pdf" target="_blank">PDF</a>
           <a class="button pub" onClick="myFunction('myDIV4')">Bib</a>
           <i style="display:none" id="myDIV4">
-          @article{nam2022reconfigurable,
-            title={Reconfigurable regular expression matching architecture for real-time pattern update and payload inspection},
-            author={Nam, Jaehyun and Na, Seung Ho and Shin, Seungwon and Park, Taejune},
-            journal={Journal of Network and Computer Applications},
-            volume={208},
-            pages={103507},
-            year={2022},
-            publisher={Elsevier}
+          @article{nam2022reconfigurable,<br>&nbsp;&nbsp;
+            title={Reconfigurable regular expression matching architecture for real-time pattern update and payload inspection},<br>&nbsp;&nbsp;
+            author={Nam, Jaehyun and Na, Seung Ho and Shin, Seungwon and Park, Taejune},<br>&nbsp;&nbsp;
+            journal={Journal of Network and Computer Applications},<br>&nbsp;&nbsp;
+            volume={208},<br>&nbsp;&nbsp;
+            pages={103507},<br>&nbsp;&nbsp;
+            year={2022},<br>&nbsp;&nbsp;
+            publisher={Elsevier}<br>
           }
           </i>
 
@@ -100,12 +100,12 @@ content:
           <a class="button pub" href="pdfs/cikm.pdf" target="_blank">PDF</a>
           <a class="button pub" onClick="myFunction('myDIV3')">Bib</a>
           <i style="display:none" id="myDIV3">
-          @inproceedings{cui2022meta,
-            title={Meta-Path-based Fake News Detection Leveraging Multi-level Social Context Information},
-            author={Cui, Jian and Kim, Kwanwoo and Na, Seung Ho and Shin, Seungwon},
-            booktitle={Proceedings of the 31st ACM International Conference on Information \& Knowledge Management},
-            pages={325--334},
-            year={2022}
+          @inproceedings{cui2022meta,<br>&nbsp;&nbsp;
+            title={Meta-Path-based Fake News Detection Leveraging Multi-level Social Context Information},<br>&nbsp;&nbsp;
+            author={Cui, Jian and Kim, Kwanwoo and Na, Seung Ho and Shin, Seungwon},<br>&nbsp;&nbsp;
+            booktitle={Proceedings of the 31st ACM International Conference on Information \& Knowledge Management},<br>&nbsp;&nbsp;
+            pages={325--334},<br>&nbsp;&nbsp;
+            year={2022}<br>
           }
           </i>
 

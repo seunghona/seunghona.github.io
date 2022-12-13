@@ -68,7 +68,13 @@ content:
           <a class="button pub" href="pdfs/ACSAC_FFL.pdf" target="_blank">PDF</a>
           <a class="button pub" onClick="myFunction('myDIV5')">Bib</a>
           <i style="display:none" id="myDIV5">
-          To be announced.
+          @inproceedings{na2022closing,<br>&nbsp;&nbsp;
+            title={Closing the Loophole: Rethinking Reconstruction Attacks in Federated Learning from a Privacy Standpoint},<br>&nbsp;&nbsp;
+            author={Na, Seung Ho and Hong, Hyeong Gwon and Kim, Junmo and Shin, Seungwon},<br>&nbsp;&nbsp;
+            booktitle={Annual Computer Security Applications Conference},<br>&nbsp;&nbsp;
+            pages={332--345},<br>&nbsp;&nbsp;
+            year={2022}<br>
+          }
           </i>
           
       - layout: left

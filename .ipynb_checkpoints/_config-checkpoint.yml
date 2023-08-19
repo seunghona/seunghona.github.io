@@ -61,11 +61,11 @@ content:
     content:
       - layout: left
         caption: ACM Internet Measurement Conference
-        sub_title: RAID 2023
+        sub_title: IMC 2023
         description: | # this will include new lines to allow paragraphs
           <i class="fa-li fa fa-file-text-o" aria-hidden="true"></i> [To Appear] Evolving Bots: The New Generation of Comment Bots and their Underlying Scam Campaigns in YouTube
           <p style="color:rgb(50, 113, 165)"><mark>Seung Ho Na</mark> , Sumin Cho, Seungwon Shin</p>
-          <a class="button pub" onClick="myFunction('myDIV5')">Bib</a>s
+          <a class="button pub" onClick="myFunction('myDIV5')">PDF</a>
           <a class="button pub" onClick="myFunction('myDIV5')">Bib</a>
           <i style="display:none" id="myDIV5">
           To Appear.<br>

@@ -77,7 +77,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           <i class="fa-li fa fa-file-text-o" aria-hidden="true"></i> [To Appear] Witnessing Erosion of Membership Inference Defenses: Understanding Effects of Data Drift in Membership Privacy
           <p style="color:rgb(50, 113, 165)"><mark>Seung Ho Na</mark> , Kwanwoo Kim, Seungwon Shin</p>
-          <a class="button pub" href="pdfs/RAID_2023_datadrift.pdf" target="_blank">PDF</a>
+          <a class="button pub" onClick="myFunction('myDIV6')">PDF</a>
           <a class="button pub" onClick="myFunction('myDIV6')">Bib</a>
           <i style="display:none" id="myDIV6">
           To Appear.<br>

@@ -63,24 +63,36 @@ content:
         caption: ACM Internet Measurement Conference
         sub_title: IMC 2023
         description: | # this will include new lines to allow paragraphs
-          <i class="fa-li fa fa-file-text-o" aria-hidden="true"></i> [To Appear] Evolving Bots: The New Generation of Comment Bots and their Underlying Scam Campaigns in YouTube
+          <i class="fa-li fa fa-file-text-o" aria-hidden="true"></i> Evolving Bots: The New Generation of Comment Bots and their Underlying Scam Campaigns in YouTube
           <p style="color:rgb(50, 113, 165)"><mark>Seung Ho Na</mark> , Sumin Cho, Seungwon Shin</p>
-          <a class="button pub" onClick="myFunction('myDIV7')">PDF</a>
+          <a class="button pub" href="pdfs/IMC_youtube.pdf" target="_blank">PDF</a>
           <a class="button pub" onClick="myFunction('myDIV7')">Bib</a>
           <i style="display:none" id="myDIV7">
-          To Appear.<br>
+          @inproceedings{na2023evolving,<br>&nbsp;&nbsp;
+            title={Evolving Bots: The New Generation of Comment Bots and their Underlying Scam Campaigns in YouTube},<br>&nbsp;&nbsp;
+            author={Na, Seung Ho and Cho, Sumin and Shin, Seungwon},<br>&nbsp;&nbsp;
+            booktitle={Proceedings of the 2023 ACM on Internet Measurement Conference},<br>&nbsp;&nbsp;
+            pages={297--312},<br>&nbsp;&nbsp;
+            year={2023}<br>
+          }
           </i>
           
       - layout: left
         caption: International Symposium on Research in Attacks, Intrusions and Defenses
         sub_title: RAID 2023
         description: | # this will include new lines to allow paragraphs
-          <i class="fa-li fa fa-file-text-o" aria-hidden="true"></i> [To Appear] Witnessing Erosion of Membership Inference Defenses: Understanding Effects of Data Drift in Membership Privacy
+          <i class="fa-li fa fa-file-text-o" aria-hidden="true"></i> Witnessing Erosion of Membership Inference Defenses: Understanding Effects of Data Drift in Membership Privacy
           <p style="color:rgb(50, 113, 165)"><mark>Seung Ho Na</mark> , Kwanwoo Kim, Seungwon Shin</p>
-          <a class="button pub" onClick="myFunction('myDIV6')">PDF</a>
+          <a class="button pub" href="pdfs/RAID_2023_datadrift.pdf" target="_blank">PDF</a>
           <a class="button pub" onClick="myFunction('myDIV6')">Bib</a>
           <i style="display:none" id="myDIV6">
-          To Appear.<br>
+          @inproceedings{na2023witnessing,<br>&nbsp;&nbsp;
+            title={Witnessing Erosion of Membership Inference Defenses: Understanding Effects of Data Drift in Membership Privacy},<br>&nbsp;&nbsp;
+            author={Na, Seung Ho and Kim, Kwanwoo and Shin, Seungwon},<br>&nbsp;&nbsp;
+            booktitle={Proceedings of the 26th International Symposium on Research in Attacks, Intrusions and Defenses},<br>&nbsp;&nbsp;
+            pages={250--263},<br>&nbsp;&nbsp;
+            year={2023}<br>
+          }
           </i>
     
       - layout: left

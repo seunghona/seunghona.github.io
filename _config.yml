@@ -46,7 +46,7 @@ additional_links:
 
 # About Section
 # about_title: About Me
-about_profile_image: images/propic.jpg
+about_profile_image: images/propic2.jpg
 about_content: | # this will include new lines to allow paragraphs
   I am a PhD candidate at KAIST [NSS Lab](https://nss.kaist.ac.kr/){:target="_blank"}, advised by Professor [Seungwon Shin](https://nss.kaist.ac.kr/?page_id=29){:target="_blank"}. I received my master\'s and bachelor\'s degree in electrical engineering from KAIST. My research interests lie in the application of machine learning in cybersafety and scrutinizing its effects on cybersecurity. Privacy of individual clients in AI has been one of my focuses in research, and I am expanding my reach to understand the more imminent threats on the individual posed by the Web (e.g., malicious bots).
   
@@ -59,6 +59,18 @@ content:
   - title: Research # Title for the section
     layout: list # Type of content section (list/text)
     content:
+      - layout: left
+        caption: IEEE Access
+        sub_title: Access 2024
+        description: | # this will include new lines to allow paragraphs
+          <i class="fa-li fa fa-file-text-o" aria-hidden="true"></i> CENSor: Detecting Illicit Bitcoin Operation via GCN-based Hyperedge Classification
+          <p style="color:rgb(50, 113, 165)">Suyeol Lee, Jaehan Kim, Minjae Seo, <mark>Seung Ho Na</mark>, Seungwon Shin, Jinwoo Kim</p>
+          <a class="button pub" href="pdfs/CENSor.pdf" target="_blank">PDF</a>
+          <a class="button pub" onClick="myFunction('myDIV8')">Bib</a>
+          <i style="display:none" id="myDIV8">
+          To appear.
+          </i>
+
       - layout: left
         caption: ACM Internet Measurement Conference
         sub_title: IMC 2023

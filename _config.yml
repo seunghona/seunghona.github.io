@@ -74,7 +74,7 @@ content:
           </i>
           
       - layout: left
-        caption: Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics
+        caption: Nations of the Americas Chapter of the Association for Computational Linguistics
         sub_title: NAACL Findings 2025
         description: | # this will include new lines to allow paragraphs
           <i class="fa-li fa fa-file-text-o" aria-hidden="true"></i> Obliviate: Neutralizing Task-agnostic Backdoors within the Parameter-efficient Fine-tuning Paradigm

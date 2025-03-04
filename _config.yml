@@ -66,7 +66,7 @@ content:
         sub_title: Security 2025
         description: | # this will include new lines to allow paragraphs
           <i class="fa-li fa fa-file-text-o" aria-hidden="true"></i> When LLMs Go Online: The Emerging Threat of Web-Enabled LLMs
-          <p style="color:rgb(50, 113, 165)">Hanna Kim, Minkyoo Song, </mark>Seung Ho Na</mark>, Seungwon Shin, Kimin Lee</p>
+          <p style="color:rgb(50, 113, 165)">Hanna Kim, Minkyoo Song, <mark>Seung Ho Na</mark>, Seungwon Shin, Kimin Lee</p>
           <a class="button pub" href="pdfs/usenix.pdf" target="_blank">PDF</a>
           <a class="button pub" onClick="myFunction('myDIV10')">Bib</a>
           <i style="display:none" id="myDIV10">
